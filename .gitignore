@@ -164,3 +164,5 @@ cython_debug/
 # Custom
 secret.py
 .python-version
+**/migrations/*
+!**/migrations/__init__.py
